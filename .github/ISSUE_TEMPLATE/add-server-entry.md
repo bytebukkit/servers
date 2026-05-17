@@ -11,7 +11,7 @@ assignees: ''
 What is the name of your server?
 > 
 
-What is address of your server?
+What is address of your server? (e.G play.server.net)
 > 
 
 What game version is your server made for? (All; neoLegacy, Revelations, ...)
@@ -20,7 +20,7 @@ What game version is your server made for? (All; neoLegacy, Revelations, ...)
 Does your server have a webpage OR discord server, and if yes, what is the link?
 > 
 
-What server software is your server running?
+What server software is your server running? (FourKit, ByteBukkit, All, ...)
 > 
 
 Attach a image with a **1:1 Aspect ratio** as your server icon. (Min. 64x64)
