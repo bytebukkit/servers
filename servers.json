@@ -8,6 +8,15 @@
       "server_homepage": "",
       "console_version": "neoLegacy",
       "server_icon": "/img/ehj-smp.png"
+    },
+    {
+      "server_name": "LapboardMC",
+      "server_type": "FourKit",
+      "server_address": "161.35.110.36:6969",
+      "server_owner": "Diamondst,
+      "server_homepage": "https://discord.gg/2YXwKZqfS5",
+      "console_version": "Revelations",
+      "server_icon": "/img/lapboard.png"
     }
   ]
 }
