@@ -11,7 +11,7 @@ You can paste this template snippet after the newest entry, make sure the last e
       "server_type": "FourKit",
       "server_address": "play.template.lce",
       "server_owner": "Byte_HD",
-      "server_homepage": "https://optional.website.com",
+      "server_discord": "https://discord.gg/123abc",
       "console_version": "neoLegacy",
       "server_icon": "/img/server_name-icon.png"
     }
@@ -27,7 +27,7 @@ Once pasted and modified correctly, the file may look a little something like th
       "server_type": "newKit",
       "server_address": "play.game.lce",
       "server_owner": "someguy123",
-      "server_homepage": "https://website.com",
+      "server_discord": "https://discord.gg/asdjhkbaks",
       "console_version": "Revelations",
       "server_icon": "/img/Cool_Server-icon.png"
     },
@@ -36,7 +36,7 @@ Once pasted and modified correctly, the file may look a little something like th
       "server_type": "FourKit",
       "server_address": "play.template.lce",
       "server_owner": "Byte_HD",
-      "server_homepage": "https://optional.website.com",
+      "server_discord": "https://discord.gg/123asdasd",
       "console_version": "neoLegacy",
       "server_icon": "/img/server_name-icon.png"
     }
