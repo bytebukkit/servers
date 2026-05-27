@@ -1,15 +1,6 @@
 {
   "servers": [
     {
-      "server_name": "EHJ NL SMP",
-      "server_type": "FourKit",
-      "server_address": "smpehj.ddns.net",
-      "server_owner": "EvilHandsomeJack",
-      "server_discord": "",
-      "console_version": "neoLegacy",
-      "server_icon": "/img/ehj-smp.png"
-    },
-    {
       "server_name": "LapboardMC",
       "server_type": "FourKit",
       "server_address": "104.168.125.227:6969",
