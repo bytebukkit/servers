@@ -8,6 +8,15 @@
       "server_discord": "https://discord.gg/2YXwKZqfS5",
       "console_version": "Revelations",
       "server_icon": "/img/lapboard.png"
+    },
+    {
+      "server_name": "Blue's SMP",
+      "server_type": "FourKit",
+      "server_address": "173.212.207.246:25565",
+      "server_owner": "Bluerworker",
+      "server_discord": "https://discord.gg/x4BuDfpgsE",
+      "console_version": "Revelations",
+      "server_icon": "/img/bluessmp.png"
     }
   ]
 }
