@@ -17,6 +17,15 @@
       "server_discord": "https://discord.gg/x4BuDfpgsE",
       "console_version": "Revelations",
       "server_icon": "/img/bluessmp.png"
+    },
+    {
+      "server_name": "Goltocraft",
+      "server_type": "newKit",
+      "server_address": "179.61.174.51:28036",
+      "server_owner": "NWFORFALTAXD",
+      "server_discord": "https://discord.gg/wpnPThUwMF",
+      "console_version": "neoLegacy",
+      "server_icon": "/img/goltocraft-icon.png"
     }
   ]
 }
